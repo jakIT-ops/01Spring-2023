@@ -1,1 +1,34 @@
 ./idea
+
+# Ignore PDF files
+*.pdf
+
+# Ignore CSV files
+*.csv
+
+# Ignore DOC files
+*.doc
+*.docx
+
+*.xml
+
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Ignore zip files
+*.zip
+
+
+# Ignore all files in the 'images' directory
+images/*
+
+# Ignore files with 'temp' in the name
+*temp*
+
+# Ignore files with the .bak extension
+*.bak
+
+
